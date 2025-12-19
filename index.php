@@ -7,8 +7,8 @@ include 'includes/header.php';
 <section class="hero-section">
     <div class="hero-overlay"></div>
     <div class="container hero-content text-center">
-        <h1 class="hero-title" style="color: var(--primary-color);">Welcome to LuxeStay</h1>
-        <p class="hero-subtitle text-white">Experience the Epitome of Luxury and Culinary Excellence</p>
+        <h1 class="hero-title" style="color: var(--primary-color);">Welcome to BKRESORT </h1>
+        <p class="hero-subtitle text-white">Experience the Epitome of Luxury and Culinary Excellence..</p>
         <div class="d-flex justify-content-center gap-3">
             <a href="#rooms" class="btn btn-premium">Book a Room</a>
             <a href="#dining" class="btn btn-premium">Order Food</a>
@@ -107,5 +107,6 @@ include 'includes/header.php';
         </div>
     </div>
 </section>
+
 
 <?php include 'includes/footer.php'; ?>
